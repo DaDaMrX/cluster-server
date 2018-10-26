@@ -1,0 +1,12 @@
+{
+    "bot_id": "0",
+    "stop_words": [],
+    "max_df": 0.1,
+    "min_df": 20,
+    "n_clusters": 50,
+    "method": "kmeans"
+}
+
+{
+    "status": "sucessful",
+}

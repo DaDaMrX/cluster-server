@@ -1,0 +1,5 @@
+bottle
+pymysql
+numpy
+sklearn
+jieba
